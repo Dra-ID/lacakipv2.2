@@ -5,5 +5,7 @@ pip install pyfiglet
 pip install fontstyle
 pip install colored
 pip install requests
+pip install termcolor
+pkg install termcolor 
 sleep 3
-python lacakip.py
+python location.py
